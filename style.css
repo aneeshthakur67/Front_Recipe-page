@@ -100,4 +100,12 @@ td{
     padding-left: 160px;
     font-weight: bold;
 }
-@media (max-width:)
+  @media (min-width: 1024px) {
+  container {
+    margin: 90px auto;
+    width: 650px;
+    background-color: white;
+    padding: 30px 25px 30px 30px;
+    border-radius: 24px;
+  }
+}
